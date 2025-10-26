@@ -4,9 +4,9 @@ const ArticlesCards = () => {
   return (
     <div className="">
       <div className="card">
-        <div className="overflow-hidden">
+        <div className="overflow-hidden rounded-xl">
           <img
-            className="w-full h-auto object-cover rounded-xl hover:scale-105 duration-500"
+            className="w-full h-auto object-cover  hover:scale-105 duration-500"
             src="https://cdn.prod.website-files.com/689251469afed457b38b7028/68936f69d26c6e5db9cc1769_image%20(21).png"
             alt=""
           />
