@@ -5,7 +5,10 @@ const BestSection = () => {
   return (
 <section className="container mx-auto max-w-[1200px] py-[13px]">
     <HeadingText title="Best Sellers"/>
-    <div>
+    <div className="grid grid-cols-4 gap-5 mt-6 ">
+        <ProductCard/>
+        <ProductCard/>
+        <ProductCard/>
         <ProductCard/>
     </div>
 </section>
