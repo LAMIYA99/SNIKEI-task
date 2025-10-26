@@ -1,3 +1,4 @@
+import ArticlesSection from "../Components/ArticlesSection";
 import BannerSection from "../Components/BannerSection";
 import BestSection from "../Components/BestSection";
 import SaleSection from "../Components/SaleSection";
@@ -8,6 +9,7 @@ const HomeTemp = () => {
       <BannerSection />
       <SaleSection />
       <BestSection/>
+      <ArticlesSection/>
     </div>
   );
 };
