@@ -17,7 +17,7 @@ const ArticlesCards = () => {
             <WifiZero className="mb-[8px]" />
             <h4>April 20, 2025</h4>
           </div>
-          <h2 className="text-[18px] font-semibold leading-[30px]">Budget Travel: Exploring the World Affordably</h2>
+          <h2 className="text-[18px] font-semibold leading-[26px]">Budget Travel: Exploring the World Affordably</h2>
         </div>
       </div>
     </div>
